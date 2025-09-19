@@ -1,0 +1,100 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fdaa76b9-8f23-46f9-a188-04d01988c246",
+  "files": [],
+  "subMetas": {
+    "197d1": {
+      "importer": "gltf-mesh",
+      "uuid": "fdaa76b9-8f23-46f9-a188-04d01988c246@197d1",
+      "displayName": "",
+      "id": "197d1",
+      "name": "road01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 4
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3802": {
+      "importer": "gltf-material",
+      "uuid": "fdaa76b9-8f23-46f9-a188-04d01988c246@f3802",
+      "displayName": "",
+      "id": "f3802",
+      "name": "road01.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fedd1": {
+      "importer": "gltf-scene",
+      "uuid": "fdaa76b9-8f23-46f9-a188-04d01988c246@fedd1",
+      "displayName": "",
+      "id": "fedd1",
+      "name": "road01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "fdaa76b9-8f23-46f9-a188-04d01988c246@fedd1",
+    "assetFinder": {
+      "meshes": [
+        "fdaa76b9-8f23-46f9-a188-04d01988c246@197d1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "fdaa76b9-8f23-46f9-a188-04d01988c246@f3802"
+      ],
+      "scenes": [
+        "fdaa76b9-8f23-46f9-a188-04d01988c246@fedd1"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false,
+      "matchMeshNames": false
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

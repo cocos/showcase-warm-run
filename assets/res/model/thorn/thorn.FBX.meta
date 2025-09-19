@@ -1,0 +1,149 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0f8009f0-3a8f-41cb-b9a5-77654a1ea363",
+  "files": [],
+  "subMetas": {
+    "165a4": {
+      "importer": "gltf-mesh",
+      "uuid": "0f8009f0-3a8f-41cb-b9a5-77654a1ea363@165a4",
+      "displayName": "",
+      "id": "165a4",
+      "name": "thorn.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 90
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d6d60": {
+      "importer": "gltf-mesh",
+      "uuid": "0f8009f0-3a8f-41cb-b9a5-77654a1ea363@d6d60",
+      "displayName": "",
+      "id": "d6d60",
+      "name": "thorn01.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 27
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5ad75": {
+      "importer": "texture",
+      "uuid": "0f8009f0-3a8f-41cb-b9a5-77654a1ea363@5ad75",
+      "displayName": "",
+      "id": "5ad75",
+      "name": "贴图 #9.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/res/model/thorn/thorn.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8dbc3": {
+      "importer": "gltf-material",
+      "uuid": "0f8009f0-3a8f-41cb-b9a5-77654a1ea363@8dbc3",
+      "displayName": "",
+      "id": "8dbc3",
+      "name": "Material #90.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1d853": {
+      "importer": "gltf-scene",
+      "uuid": "0f8009f0-3a8f-41cb-b9a5-77654a1ea363@1d853",
+      "displayName": "",
+      "id": "1d853",
+      "name": "thorn.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "贴图 #9",
+        "uri": "db://assets/res/model/thorn/thorn.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "0f8009f0-3a8f-41cb-b9a5-77654a1ea363@1d853",
+    "assetFinder": {
+      "meshes": [
+        "0f8009f0-3a8f-41cb-b9a5-77654a1ea363@165a4",
+        "0f8009f0-3a8f-41cb-b9a5-77654a1ea363@d6d60"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0f8009f0-3a8f-41cb-b9a5-77654a1ea363@5ad75"
+      ],
+      "materials": [
+        "0f8009f0-3a8f-41cb-b9a5-77654a1ea363@8dbc3"
+      ],
+      "scenes": [
+        "0f8009f0-3a8f-41cb-b9a5-77654a1ea363@1d853"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false,
+      "matchMeshNames": false
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

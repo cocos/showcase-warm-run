@@ -1,0 +1,214 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9fa8d8a7-1a50-464d-9877-c94f34bc2020",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "a6d63": {
+      "importer": "gltf-mesh",
+      "uuid": "9fa8d8a7-1a50-464d-9877-c94f34bc2020@a6d63",
+      "displayName": "",
+      "id": "a6d63",
+      "name": "shirenhua1.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 976
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "9fa8d8a7-1a50-464d-9877-c94f34bc2020@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 60,
+        "span": {
+          "from": 0,
+          "to": 3.9583332538604736
+        },
+        "events": [],
+        "speed": 1.02
+      },
+      "ver": "1.0.17",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "9fa8d8a7-1a50-464d-9877-c94f34bc2020@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 31
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d4f45": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9fa8d8a7-1a50-464d-9877-c94f34bc2020@d4f45",
+      "displayName": "",
+      "id": "d4f45",
+      "name": "Map #2.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "1da29": {
+      "importer": "texture",
+      "uuid": "9fa8d8a7-1a50-464d-9877-c94f34bc2020@1da29",
+      "displayName": "",
+      "id": "1da29",
+      "name": "Map #2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9fa8d8a7-1a50-464d-9877-c94f34bc2020@d4f45"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c28f0": {
+      "importer": "gltf-material",
+      "uuid": "9fa8d8a7-1a50-464d-9877-c94f34bc2020@c28f0",
+      "displayName": "",
+      "id": "c28f0",
+      "name": "Material #26.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "93f1c": {
+      "importer": "gltf-scene",
+      "uuid": "9fa8d8a7-1a50-464d-9877-c94f34bc2020@93f1c",
+      "displayName": "",
+      "id": "93f1c",
+      "name": "chomper.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #2",
+        "uri": "9fa8d8a7-1a50-464d-9877-c94f34bc2020@d4f45"
+      }
+    ],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 3.9583332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 3.9583332538604736,
+            "fps": 60,
+            "wrapMode": 2,
+            "previousId": "73b7f"
+          }
+        ]
+      }
+    ],
+    "redirect": "9fa8d8a7-1a50-464d-9877-c94f34bc2020@93f1c",
+    "assetFinder": {
+      "meshes": [
+        "9fa8d8a7-1a50-464d-9877-c94f34bc2020@a6d63"
+      ],
+      "skeletons": [
+        "9fa8d8a7-1a50-464d-9877-c94f34bc2020@438fe"
+      ],
+      "textures": [
+        "9fa8d8a7-1a50-464d-9877-c94f34bc2020@1da29"
+      ],
+      "materials": [
+        "9fa8d8a7-1a50-464d-9877-c94f34bc2020@c28f0"
+      ],
+      "scenes": [
+        "9fa8d8a7-1a50-464d-9877-c94f34bc2020@93f1c"
+      ]
+    },
+    "dumpMaterials": false,
+    "materialDumpDir": "db://assets/res/model/chomper",
+    "disableMeshSplit": true,
+    "fbx": {
+      "smartMaterialEnabled": false,
+      "matchMeshNames": false
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

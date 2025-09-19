@@ -1,0 +1,46 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "cb48571f-d88b-4976-a3ed-c9dc0df9529f",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "cb48571f-d88b-4976-a3ed-c9dc0df9529f@6c48a",
+      "displayName": "birdie01",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cb48571f-d88b-4976-a3ed-c9dc0df9529f",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "cb48571f-d88b-4976-a3ed-c9dc0df9529f@6c48a",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "a2kvEF99ZK7oiOERmrnH5R"
+    },
+    "fixAlphaTransparencyArtifacts": false
+  }
+}

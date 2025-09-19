@@ -1,0 +1,46 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "7d27e93c-8f29-45a9-abe1-6b513026d9c4",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "7d27e93c-8f29-45a9-abe1-6b513026d9c4@6c48a",
+      "displayName": "stone02",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7d27e93c-8f29-45a9-abe1-6b513026d9c4",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": false,
+    "type": "texture",
+    "redirect": "7d27e93c-8f29-45a9-abe1-6b513026d9c4@6c48a",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "a2kvEF99ZK7oiOERmrnH5R"
+    },
+    "fixAlphaTransparencyArtifacts": false
+  }
+}

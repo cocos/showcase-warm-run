@@ -1,0 +1,46 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "d68c765c-29f7-4aea-a324-939a635e74b4",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "d68c765c-29f7-4aea-a324-939a635e74b4@6c48a",
+      "displayName": "knolanCrack",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d68c765c-29f7-4aea-a324-939a635e74b4",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "d68c765c-29f7-4aea-a324-939a635e74b4@6c48a",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "a2kvEF99ZK7oiOERmrnH5R"
+    },
+    "fixAlphaTransparencyArtifacts": false
+  }
+}
