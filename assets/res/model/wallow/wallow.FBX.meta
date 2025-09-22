@@ -1,0 +1,130 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7247db4e-39dc-45e7-8123-3cd2b51f18c5",
+  "files": [],
+  "subMetas": {
+    "88335": {
+      "importer": "gltf-mesh",
+      "uuid": "7247db4e-39dc-45e7-8123-3cd2b51f18c5@88335",
+      "displayName": "",
+      "id": "88335",
+      "name": "wallow.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c774a": {
+      "importer": "texture",
+      "uuid": "7247db4e-39dc-45e7-8123-3cd2b51f18c5@c774a",
+      "displayName": "",
+      "id": "c774a",
+      "name": "贴图 #10.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/res/model/wallow/wallow.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "84e8a": {
+      "importer": "gltf-material",
+      "uuid": "7247db4e-39dc-45e7-8123-3cd2b51f18c5@84e8a",
+      "displayName": "",
+      "id": "84e8a",
+      "name": "Material #91.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e988b": {
+      "importer": "gltf-scene",
+      "uuid": "7247db4e-39dc-45e7-8123-3cd2b51f18c5@e988b",
+      "displayName": "",
+      "id": "e988b",
+      "name": "wallow.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "贴图 #10",
+        "uri": "db://assets/res/model/wallow/wallow.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "7247db4e-39dc-45e7-8123-3cd2b51f18c5@e988b",
+    "assetFinder": {
+      "meshes": [
+        "7247db4e-39dc-45e7-8123-3cd2b51f18c5@88335"
+      ],
+      "skeletons": [],
+      "textures": [
+        "7247db4e-39dc-45e7-8123-3cd2b51f18c5@c774a"
+      ],
+      "materials": [
+        "7247db4e-39dc-45e7-8123-3cd2b51f18c5@84e8a"
+      ],
+      "scenes": [
+        "7247db4e-39dc-45e7-8123-3cd2b51f18c5@e988b"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false,
+      "matchMeshNames": false
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

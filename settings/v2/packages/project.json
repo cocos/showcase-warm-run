@@ -1,0 +1,157 @@
+{
+  "__version__": "1.0.5",
+  "general": {
+    "designResolution": {
+      "width": 1280,
+      "height": 720,
+      "fitWidth": false,
+      "fitHeight": true
+    }
+  },
+  "custom_joint_texture_layouts": [
+    {
+      "textureLength": 180,
+      "contents": [
+        {
+          "skeleton": "1f2135d1-1257-47f0-aa58-3741b91aae79@438fe",
+          "clips": [
+            "1f2135d1-1257-47f0-aa58-3741b91aae79@73b7f"
+          ]
+        }
+      ]
+    },
+    {
+      "textureLength": 156,
+      "contents": [
+        {
+          "skeleton": "9fa8d8a7-1a50-464d-9877-c94f34bc2020@438fe",
+          "clips": [
+            "9fa8d8a7-1a50-464d-9877-c94f34bc2020@73b7f"
+          ]
+        }
+      ]
+    },
+    {
+      "textureLength": 48,
+      "contents": [
+        {
+          "skeleton": "a3bdec1b-7a81-433d-a2f3-937da43e09db@438fe",
+          "clips": [
+            "a3bdec1b-7a81-433d-a2f3-937da43e09db@73b7f"
+          ]
+        }
+      ]
+    },
+    {
+      "textureLength": 132,
+      "contents": [
+        {
+          "skeleton": "917eec7a-edbe-4cec-b5b9-38b5616293c3@438fe",
+          "clips": [
+            "917eec7a-edbe-4cec-b5b9-38b5616293c3@73b7f"
+          ]
+        }
+      ]
+    },
+    {
+      "textureLength": 168,
+      "contents": [
+        {
+          "skeleton": "044ea745-5fb3-44b7-b57c-b1ca34d4ea25@438fe",
+          "clips": [
+            "044ea745-5fb3-44b7-b57c-b1ca34d4ea25@73b7f"
+          ]
+        }
+      ]
+    },
+    {
+      "textureLength": 84,
+      "contents": [
+        {
+          "skeleton": "3c4a5321-dec1-4f36-9e5a-8a3ba924a1ed@438fe",
+          "clips": [
+            "3c4a5321-dec1-4f36-9e5a-8a3ba924a1ed@73b7f"
+          ]
+        }
+      ]
+    },
+    {
+      "textureLength": 72,
+      "contents": [
+        {
+          "skeleton": "2ce54549-aad6-49a8-8daa-3343d7fc2313@438fe",
+          "clips": [
+            "2ce54549-aad6-49a8-8daa-3343d7fc2313@73b7f"
+          ]
+        }
+      ]
+    },
+    {
+      "textureLength": 48,
+      "contents": [
+        {
+          "skeleton": "424acdd2-de16-431e-827a-5b21ecbe06c4@438fe",
+          "clips": [
+            "424acdd2-de16-431e-827a-5b21ecbe06c4@73b7f"
+          ]
+        }
+      ]
+    },
+    {
+      "textureLength": 204,
+      "contents": [
+        {
+          "skeleton": "ec786d02-7442-4167-ba17-d9ddd06eaad3@438fe",
+          "clips": [
+            "ec786d02-7442-4167-ba17-d9ddd06eaad3@73b7f"
+          ]
+        }
+      ]
+    },
+    {
+      "textureLength": 36,
+      "contents": [
+        {
+          "skeleton": "ba00ebcb-fa7f-4224-ae79-dcc43c86fa28@438fe",
+          "clips": [
+            "ba00ebcb-fa7f-4224-ae79-dcc43c86fa28@73b7f"
+          ]
+        }
+      ]
+    },
+    {
+      "textureLength": 156,
+      "contents": [
+        {
+          "skeleton": "8676a7ff-5bb5-41af-bcf3-d22ae0c3ac5a@30732",
+          "clips": [
+            "8676a7ff-5bb5-41af-bcf3-d22ae0c3ac5a@5d069",
+            "8676a7ff-5bb5-41af-bcf3-d22ae0c3ac5a@ac3f0",
+            "8676a7ff-5bb5-41af-bcf3-d22ae0c3ac5a@cf5ee",
+            "8676a7ff-5bb5-41af-bcf3-d22ae0c3ac5a@834f5",
+            "8676a7ff-5bb5-41af-bcf3-d22ae0c3ac5a@6cb1a",
+            "8676a7ff-5bb5-41af-bcf3-d22ae0c3ac5a@68ef9",
+            "8676a7ff-5bb5-41af-bcf3-d22ae0c3ac5a@115ff"
+          ]
+        },
+        {
+          "skeleton": "8676a7ff-5bb5-41af-bcf3-d22ae0c3ac5a@f1394",
+          "clips": [
+            "8676a7ff-5bb5-41af-bcf3-d22ae0c3ac5a@5d069",
+            "8676a7ff-5bb5-41af-bcf3-d22ae0c3ac5a@ac3f0",
+            "8676a7ff-5bb5-41af-bcf3-d22ae0c3ac5a@cf5ee",
+            "8676a7ff-5bb5-41af-bcf3-d22ae0c3ac5a@834f5",
+            "8676a7ff-5bb5-41af-bcf3-d22ae0c3ac5a@6cb1a",
+            "8676a7ff-5bb5-41af-bcf3-d22ae0c3ac5a@68ef9",
+            "8676a7ff-5bb5-41af-bcf3-d22ae0c3ac5a@115ff"
+          ]
+        }
+      ]
+    }
+  ],
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  }
+}

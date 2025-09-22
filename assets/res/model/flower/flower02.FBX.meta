@@ -1,0 +1,150 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6def92bb-7c17-47dd-beb2-56a1e757fb11",
+  "files": [],
+  "subMetas": {
+    "11873": {
+      "importer": "gltf-material",
+      "uuid": "6def92bb-7c17-47dd-beb2-56a1e757fb11@11873",
+      "displayName": "",
+      "id": "11873",
+      "name": "Material #0.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "79b90": {
+      "importer": "gltf-mesh",
+      "uuid": "6def92bb-7c17-47dd-beb2-56a1e757fb11@79b90",
+      "displayName": "",
+      "id": "79b90",
+      "name": "flower02.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 272
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "91c13": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6def92bb-7c17-47dd-beb2-56a1e757fb11@91c13",
+      "displayName": "",
+      "id": "91c13",
+      "name": "贴图 #0.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "3efb2": {
+      "importer": "texture",
+      "uuid": "6def92bb-7c17-47dd-beb2-56a1e757fb11@3efb2",
+      "displayName": "",
+      "id": "3efb2",
+      "name": "贴图 #0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6def92bb-7c17-47dd-beb2-56a1e757fb11@91c13"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a6f71": {
+      "importer": "gltf-scene",
+      "uuid": "6def92bb-7c17-47dd-beb2-56a1e757fb11@a6f71",
+      "displayName": "",
+      "id": "a6f71",
+      "name": "flower02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "贴图 #0",
+        "uri": "6def92bb-7c17-47dd-beb2-56a1e757fb11@91c13"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "6def92bb-7c17-47dd-beb2-56a1e757fb11@a6f71",
+    "assetFinder": {
+      "meshes": [
+        "6def92bb-7c17-47dd-beb2-56a1e757fb11@79b90"
+      ],
+      "skeletons": [],
+      "textures": [
+        "6def92bb-7c17-47dd-beb2-56a1e757fb11@3efb2"
+      ],
+      "materials": [
+        "6def92bb-7c17-47dd-beb2-56a1e757fb11@11873"
+      ],
+      "scenes": [
+        "6def92bb-7c17-47dd-beb2-56a1e757fb11@a6f71"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false,
+      "matchMeshNames": false
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}
